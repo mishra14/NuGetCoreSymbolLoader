@@ -1,4 +1,7 @@
-# NuGetCoreSymbolLoader
+# NuGet Core Solution Symbol Loader
+
+## Note
+This tool is no longer relevant since NuGet's code base has been migrated into a single solution. But This can come in handy if you are debugging Nuget from before 4.3.0
 
 ## Introduction
 This is a tool used to extract NuGet.Core symbols from the NuGet repository build.
